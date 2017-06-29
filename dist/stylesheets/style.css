@@ -1,0 +1,33 @@
+body{
+  box-sizing: border-box;
+  background-color: #FFFDF0;
+  text-align: center;
+  width: 100%;
+}
+
+#bar{
+  height: 7rem;
+  width: 20rem;
+  background-color: #90AFB5;
+  margin: auto;
+}
+
+.longTable{
+  height: 15rem;
+  width: 5rem;
+  background-color: #B05B08;
+}
+
+.roundTable{
+  height: 10rem;
+  width: 10rem;
+  border-radius: 5rem;
+  background-color: #B05B08;
+}
+
+.chair{
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 1.25rem;
+  background-color: #3DB0A8;
+}
